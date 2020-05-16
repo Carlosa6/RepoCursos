@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "curso": "Base de Datos Mysql desde cero",
+    "autor": "Udemy",
+    "categoria": "Base de Datos",
+    "peso": "1.79 GB",
+    "imagen": "mysql.gif",
+    "descripcion": "Conceptos básicos de Mysql, Teoría y ejemplos básicos. Ideal para principiantes en BD Mysql.",
+    "link": "https://mega.nz/folder/klEzFA6S#YzatPiIjaPiC0IqV1SNeOQ"
+  },
+  {
+    "id": 1,
+    "curso": "Base de Datos Microsoft SQL Server",
+    "autor": "Udemy",
+    "categoria": "Base de Datos",
+    "peso": "1.79 GB",
+    "imagen": "sql-server.png",
+    "descripcion": "Conceptos básicos de Microsoft SQL Server, Teoría y ejemplos básicos. Contenido: Introducción, consultas básicas, creación de base de datos, funciones, JOINS, Stored Procedure, Triggers, Views.",
+    "link": "https://mega.nz/folder/FsdFFKCB#7lxNpOGfxVxFqgn89oFAtw"
+  },
+  {
+    "id": 2,
+    "curso": "Base de Datos PostgreSQL",
+    "autor": "Udemy",
+    "categoria": "Base de Datos",
+    "peso": "3.17 GB",
+    "imagen": "postgresql.png",
+    "descripcion": "Conceptos básicos de PostgreSQL, Teoría y ejemplos básicos.",
+    "link": "https://mega.nz/folder/UgkhFIwQ#_56gUP_9Cdah1u0vQmh75g"
+  }
+]
